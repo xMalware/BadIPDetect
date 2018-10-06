@@ -1,6 +1,6 @@
 # Bad IP Detect - API
 
-This API allows to detect bad IPs (such as VPNs and proxies), to retrieve information on an IP (ASN number, name of the Internet service provider, country, city etc.). You can compile the API yourself or [download it directly here](https://github.com/xMalware/BadIPDetect/releases/tag/1.0) to import it into your projects.
+This API allows to detect bad IPs (such as VPNs and proxies), to retrieve information from an IP address (ASN number, name of the Internet service provider, country, city etc.). You can compile the API yourself or [download it directly here](https://github.com/xMalware/BadIPDetect/releases/tag/1.0) to import it into your projects.
 
 API from https://ipdetector.info
 
